@@ -1,6 +1,6 @@
 ## Hi, I'm Yuanheng (Alan) Li 👋
 
-M.S.E. in Data Science & AI at **UPenn** (B.S. Data Science, NYU, magna cum laude).
+M.S.E. in Data Science & Artificial Intelligence at **UPenn** (B.S. Data Science, NYU, magna cum laude).
 I build **LLM agent systems, retrieval pipelines, and generative models** — and ship them as real services.
 
 🔍 Currently seeking **Summer 2027 ML Engineer / AI Engineer internships**.
